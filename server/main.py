@@ -1,35 +1,5 @@
 # -*- coding: utf-8 -*-
 '''
-제작자 이메일 : aldlfkahs95@naver.com
-제작자 블로그 : https://togomi.tistory.com/
-참고 : https://github.com/jithurjacob/Windows-10-Toast-Notifications
-      https://medium.com/@mjhans83/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%ED%81%AC%EB%A1%A4%EB%A7%81-%ED%95%98%EA%B8%B0-908e78ee09e0
-      http://blog.naver.com/PostView.nhn?blogId=dbstjdans123&logNo=221163430022&categoryNo=23&parentCategoryNo=-1&viewDate=&currentPage=&postListTopCurrentPage=&isAfterWrite=true
-      https://stackoverflow.com/questions/56695061/is-there-any-way-to-disable-the-notification-sound-on-win10toast-python-library
-      https://wikidocs.net/4238
-      https://www.element14.com/community/thread/57051/l/how-to-break-out-of-a-while-true-loop-with-a-button?displayFullThread=true
-      https://stackoverflow.com/questions/37815371/pyinstaller-failed-to-execute-script-pyi-rth-pkgres-and-missing-packages
-      https://stackoverflow.com/questions/16511337/correct-way-to-try-except-using-python-requests-module
-      https://wikidocs.net/21938
-      https://wikidocs.net/35496
-      https://wikidocs.net/36766
-      https://weejw.tistory.com/264
-      https://github.com/Charnelx/Windows-10-Toast-Notifications
-      https://stackoverflow.com/questions/63867448/interactive-notification-windows-10-using-python
-      https://cjsal95.tistory.com/35
-      https://m.blog.naver.com/scyan2011/221723880069
-      https://m.blog.naver.com/scyan2011/221723880069
-      https://wikidocs.net/26
-      https://stackoverflow.com/questions/22726860/beautifulsoup-webscraping-find-all-finding-exact-match
-      https://pypi.org/project/win10toast-click/
-      https://malja.github.io/zroya/index.html
-'''
-'''
-사용 전 필수 설정사항
-
-시작 -> 설정 -> 시스템 -> 알림 및 작업 
--> 앱 및 다른 보낸사람의 알림 받기 -> 켬
-'''
 import os
 import sys
 from PyQt5.QtWidgets import *
