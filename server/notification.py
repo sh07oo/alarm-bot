@@ -52,4 +52,4 @@ class Notification:
             except Exception as e:
                 print("오류 발생:", e)
 
-            time.sleep(30)  # 30초마다 새 글 확인
+            time.sleep(2)  # 30초마다 새 글 확인
